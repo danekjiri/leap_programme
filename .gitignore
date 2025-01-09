@@ -1,0 +1,10 @@
+.DS_Store
+1on1/
+.idea
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+oreilly/
+*.dump
+*.lst
+*.iml
