@@ -1,4 +1,4 @@
-package com.tesco.jiridanek1.challenges;
+package com.tesco.jiridanek1.challenges.method;
 
 public class Method {
     public static void main(String[] args) {

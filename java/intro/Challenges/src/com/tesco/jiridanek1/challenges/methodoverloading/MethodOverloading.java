@@ -1,4 +1,4 @@
-package com.tesco.jiridanek1.challenges;
+package com.tesco.jiridanek1.challenges.methodoverloading;
 
 public class MethodOverloading {
     public static final double INCH_TO_CM = 2.54;

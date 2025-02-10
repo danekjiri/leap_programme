@@ -1,4 +1,4 @@
-package com.tesco.jiridanek1.challenges;
+package com.tesco.jiridanek1.challenges.secondandminutes;
 
 public class SecondAndMinutes {
     public static final String TIME_FORMAT = "%2dh %02dm %02ds";
